@@ -31,7 +31,7 @@
   @font-face{font-family:'Manrope';font-style:normal;font-weight:800;font-display:swap;src:url("assets/manrope-4.woff2") format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF}
   @font-face{font-family:'Manrope';font-style:normal;font-weight:800;font-display:swap;src:url("assets/manrope-5.woff2") format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
   :root{
-    --navy:#0B1F33; --navy2:#13314f; --cyan:#1FC8E0; --amber:#E9A23B;
+    --navy:#0B1F33; --navy2:#13314f; --cyan:#1FC8E0; --amber:#E9A23B; --amber-ink:#966115;
     --wine:#8A1635; --oxblood:#5D1E2C; --oxblood2:#3F1621;
     --ink:#1a2330; --slate:#5a6b7b; --line:#dce3ea; --bg:#f4f7fa; --paper:#fff;
   }
@@ -174,7 +174,7 @@
   a.minilink{display:block;text-decoration:none;color:inherit;transition:border-color .15s,transform .15s}
   a.minilink:hover{border-left-color:var(--cyan);transform:translateX(2px)}
   .dl{display:inline-block;margin-top:10px;font-size:13.5px;font-weight:700;color:var(--navy)}
-  .mini .tag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--amber);font-weight:700}
+  .mini .tag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--amber-ink);font-weight:700}
   .mini h4{margin:6px 0 6px;color:var(--navy);font-size:16px}
   .mini p{font-size:13.5px;color:var(--slate);margin:0}
   .inds{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
@@ -471,6 +471,14 @@
       <div class="mini"><div class="tag">Perspective</div><h4>Foresight vs forecasting for quantum</h4><p>Why extrapolation fails in a market whose rules are still being written.</p><span class="dl">Coming soon</span></div>
       <div class="mini"><div class="tag">Perspective</div><h4>Criminal misuse of quantum</h4><p>Building on the UK government assessment, the risks decision-makers underweigh.</p><span class="dl">Coming soon</span></div>
     </div>
+    <h3 style="margin-top:34px;font-size:20px">Latest from LinkedIn</h3>
+    <div class="rowcards">
+      <a class="mini minilink" href="https://www.linkedin.com/company/quantum-foresight" target="_blank" rel="noopener"><div class="tag">LinkedIn &middot; DD Mon YYYY</div><h4>Headline for post one</h4><p>One or two sentences summarising the post.</p><span class="dl">Read on LinkedIn &rarr;</span></a>
+      <a class="mini minilink" href="https://www.linkedin.com/company/quantum-foresight" target="_blank" rel="noopener"><div class="tag">LinkedIn &middot; DD Mon YYYY</div><h4>Headline for post two</h4><p>One or two sentences summarising the post.</p><span class="dl">Read on LinkedIn &rarr;</span></a>
+      <a class="mini minilink" href="https://www.linkedin.com/company/quantum-foresight" target="_blank" rel="noopener"><div class="tag">LinkedIn &middot; DD Mon YYYY</div><h4>Headline for post three</h4><p>One or two sentences summarising the post.</p><span class="dl">Read on LinkedIn &rarr;</span></a>
+    </div>
+    <p class="flag">Draft: placeholder cards. Replace with three real QF posts (newest first) and link each to its post URL before merging.</p>
+    <a class="dl" href="https://www.linkedin.com/company/quantum-foresight" target="_blank" rel="noopener">More on LinkedIn &rarr;</a>
     </div>
 </section>
 
