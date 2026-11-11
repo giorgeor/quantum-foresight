@@ -3,8 +3,8 @@
  "works": [
   {
    "id": "futures-toolkit",
-   "title": "UK Government Futures Toolkit",
-   "year": null,
+   "title": "UK Government Futures Toolkit (2023 refresh)",
+   "year": 2023,
    "area": "Foresight method",
    "nature": "built",
    "status": "published",
@@ -28,7 +28,7 @@
   {
    "id": "securing-tomorrow",
    "title": "KuppingerCole: Securing Tomorrow",
-   "year": null,
+   "year": 2024,
    "area": "Foresight method",
    "nature": "built",
    "status": "published",
@@ -47,7 +47,8 @@
    "status": "completed",
    "threads": [
     "translation gap",
-    "government quantum advisory"
+    "government quantum advisory",
+    "public-sector clients"
    ],
    "ledTo": []
   },
@@ -61,7 +62,8 @@
    "threads": [
     "translation gap",
     "government quantum advisory",
-    "scenario reports"
+    "scenario reports",
+    "public-sector clients"
    ],
    "ledTo": [
     "qcon"
@@ -147,6 +149,33 @@
    "kind": "post",
    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506700581160505344",
    "text": "texts/9.md"
+  },
+  {
+   "id": 10,
+   "title": "Update the Futures Toolkit (GO-Science blog)",
+   "date": "2023-06-28",
+   "date_basis": "date of the blog post",
+   "kind": "document",
+   "url": "https://foresightprojects.blog.gov.uk/2023/06/28/update-the-futures-toolkit/",
+   "text": "texts/10.md"
+  },
+  {
+   "id": 11,
+   "title": "SAMI Consulting: Going public: Cyberevolution, SAFIRE, and scenarios",
+   "date": "2023-11-10",
+   "date_basis": "date of the post (updated 2024-08-05)",
+   "kind": "post",
+   "url": "https://www.samiconsulting.co.uk/post/going-public-cyberevolution-safire-and-scenarios",
+   "text": "texts/11.md"
+  },
+  {
+   "id": 12,
+   "title": "Securing Tomorrow: Strategic Cybersecurity Recommendations for 2024-2033 (KuppingerCole advisory note)",
+   "date": "2024-07-05",
+   "date_basis": "publication date on the page",
+   "kind": "document",
+   "url": "https://www.kuppingercole.com/research/an80890/securing-tomorrow-strategic-cybersecurity-recommendations-for-2024-2033",
+   "text": "texts/12.md"
   }
  ]
 }
