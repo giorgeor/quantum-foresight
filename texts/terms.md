@@ -7,7 +7,7 @@ Counted in works only (threads and areas). Statistics and pointers, no definitio
 - **Delivery infrastructure**: 1 uses, in 1 works, earliest dated 2026; works: qf-backend
 - **Foresight method**: 3 uses, in 3 works, earliest dated 2021; works: futures-toolkit, safire, securing-tomorrow
 - **Government advisory**: 2 uses, in 2 works, earliest dated 2026; works: misuse-assessment, ni-project
+- **repeatable engagement machinery**: 1 uses, in 1 works, earliest dated 2026; works: qf-backend
 - **scenario reports**: 2 uses, in 2 works, earliest dated 2026; works: ni-project, qcon
 - **Speaking**: 1 uses, in 1 works, earliest dated 2026; works: qcon
-- **systems that compound**: 1 uses, in 1 works, earliest dated 2026; works: qf-backend
 - **translation gap**: 4 uses, in 4 works, earliest dated 2026; works: misuse-assessment, ni-project, qcon, site

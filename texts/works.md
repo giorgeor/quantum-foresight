@@ -86,7 +86,7 @@ Delivery infrastructure; built; in use; work id qf-backend
 
 **Summary:** First built out on the government misuse assessment, then reused for the NI Quantum Foresight project, and it continues to support current engagements.
 
-**Threads:** systems that compound
+**Threads:** repeatable engagement machinery
 
 **Led to** NI Quantum Foresight project (2026): the backend built out on the first engagement was reused for the NI project. Evidence (they say so): statement by the firm (source 14); no external source
 
