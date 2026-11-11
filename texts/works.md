@@ -32,6 +32,18 @@ Foresight method; built; published; work id securing-tomorrow
 
 **Sources (3):** [12](https://quantum-foresight.com/texts/12.md), [11](https://quantum-foresight.com/texts/11.md), [1](https://quantum-foresight.com/texts/1.md)
 
+## Assessment of criminal misuse of quantum technologies (2026)
+
+Government advisory; built; completed; work id misuse-assessment
+
+**What:** Assessed the actual and potential criminal uses of the full range of quantum technologies for a major UK government department.
+
+**Threads:** translation gap
+
+**Led to** Agent-assisted analysis and delivery backend (2026): the backend was first built out on this engagement. Evidence (they say so): statement by the firm (source 14); no external source
+
+**Sources (1):** [1](https://quantum-foresight.com/texts/1.md)
+
 ## NI Quantum Foresight project (2026)
 
 Government advisory; built; completed; work id ni-project
@@ -40,7 +52,7 @@ Government advisory; built; completed; work id ni-project
 
 **Summary:** Produced by SAMI Consulting for Matrix NI, commissioned for the Department for the Economy. Findings were presented at Q-Con Gdansk on 11 September; the formal launch followed at AICON Belfast, by the NI Minister for the Economy.
 
-**Threads:** translation gap; government quantum advisory; scenario reports; public-sector clients
+**Threads:** translation gap; scenario reports
 
 **Led to** Q-Con Gdansk sessions (2026): the findings were presented at Q-Con on 11 September, before the formal report launch on 23 September. Evidence (they say so): Q-Con programme lists 'Northern Ireland Quantum Report and Recommendations' (source 3); launch date from source 7
 
@@ -66,19 +78,7 @@ Brand; built; live; work id site
 
 **Sources (1):** [1](https://quantum-foresight.com/texts/1.md)
 
-## Assessment of criminal misuse of quantum technologies (undated)
-
-Government advisory; built; completed; work id misuse-assessment
-
-**What:** Assessed the actual and potential criminal uses of the full range of quantum technologies for a major UK government department.
-
-**Threads:** translation gap; government quantum advisory; public-sector clients
-
-**Led to** Agent-assisted analysis and delivery backend (undated): the backend was first built out on this engagement. Evidence (they say so): statement by the firm (source 14); no external source
-
-**Sources (1):** [1](https://quantum-foresight.com/texts/1.md)
-
-## Agent-assisted analysis and delivery backend (undated)
+## Agent-assisted analysis and delivery backend (2026)
 
 Delivery infrastructure; built; in use; work id qf-backend
 

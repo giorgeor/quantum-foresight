@@ -14,10 +14,8 @@
 - **KuppingerCole: Securing Tomorrow** (SAMI prior work): KuppingerCole advisory note with eight CISO recommendations for 2024-2033, done in collaboration with SAMI Consulting and drawing on the SAFIRE method and stakeholder workshops. Read: [12](https://quantum-foresight.com/texts/12.md), [11](https://quantum-foresight.com/texts/11.md), [1](https://quantum-foresight.com/texts/1.md)
 ## 2026
 
+- **Assessment of criminal misuse of quantum technologies**: Assessed the actual and potential criminal uses of the full range of quantum technologies for a major UK government department. Led to Agent-assisted analysis and delivery backend (2026). Read: [1](https://quantum-foresight.com/texts/1.md)
 - **NI Quantum Foresight project**: Mapped Northern Ireland's quantum capabilities and supply chains, compared other regions, ran a SWOT and an economic impact model, and set out tailored recommendations. Report launched 23 September 2026. Led to Q-Con Gdansk sessions (2026). Read: [2](https://quantum-foresight.com/texts/2.md), [7](https://quantum-foresight.com/texts/7.md), [8](https://quantum-foresight.com/texts/8.md)
 - **Q-Con Gdansk sessions**: 11 September 2026: a Deep Dive talk, 'Northern Ireland Quantum Report and Recommendations', and a fireside chat on national quantum strategies. Read: [3](https://quantum-foresight.com/texts/3.md), [9](https://quantum-foresight.com/texts/9.md)
 - **quantum-foresight.com site and brand**: Public site with settled branding, an impact section and a news section. Read: [1](https://quantum-foresight.com/texts/1.md)
-## Undated
-
-- **Assessment of criminal misuse of quantum technologies**: Assessed the actual and potential criminal uses of the full range of quantum technologies for a major UK government department. Led to Agent-assisted analysis and delivery backend (undated). Read: [1](https://quantum-foresight.com/texts/1.md)
 - **Agent-assisted analysis and delivery backend**: A reusable, agent-assisted backend that supports Quantum Foresight engagements. Details are not published. Led to NI Quantum Foresight project (2026). Read: [14](https://quantum-foresight.com/texts/14.md)

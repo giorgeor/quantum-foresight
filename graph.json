@@ -41,14 +41,12 @@
   {
    "id": "misuse-assessment",
    "title": "Assessment of criminal misuse of quantum technologies",
-   "year": null,
+   "year": 2026,
    "area": "Government advisory",
    "nature": "built",
    "status": "completed",
    "threads": [
-    "translation gap",
-    "government quantum advisory",
-    "public-sector clients"
+    "translation gap"
    ],
    "ledTo": [
     "qf-backend"
@@ -63,9 +61,7 @@
    "status": "completed",
    "threads": [
     "translation gap",
-    "government quantum advisory",
-    "scenario reports",
-    "public-sector clients"
+    "scenario reports"
    ],
    "ledTo": [
     "qcon"
@@ -99,7 +95,7 @@
   {
    "id": "qf-backend",
    "title": "Agent-assisted analysis and delivery backend",
-   "year": null,
+   "year": 2026,
    "area": "Delivery infrastructure",
    "nature": "built",
    "status": "in use",
