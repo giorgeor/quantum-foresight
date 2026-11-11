@@ -1,0 +1,30 @@
+# Quantum Foresight archive (quantum-foresight.com)
+
+> The map of Quantum Foresight archive (quantum-foresight.com) for AI agents and other programs. Subject: Quantum Foresight. Built 2026-11-11.
+
+Quantum Foresight is the SAMI Consulting quantum advisory and strategic foresight practice. It covers the full quantum landscape (sensing, communications, computing), not only security.
+
+## Reading path
+
+- story.md: the whole record in one fetch, year by year, with what each work led to.
+- texts/works.md: evidence on each work.
+- texts/index.md: sources by date, with conflicting dates.
+- texts/terms.md: each term with usage statistics.
+- graph.json: works and sources as data; links are implied by each work's threads.
+- texts/<id>.md: one file per source.
+
+## Rules for agents
+
+- Before answering about a work, open the source linked for it; this map only summarises.
+- Do not invent dates, quotes or sources. Dates are only as precise as their source.
+- Threads, areas and links between works are the archive builder's interpretation, not the authors' words.
+
+## Omissions
+
+Internal method detail and commercial terms are omitted. Client contract values and unpublished pipeline are not recorded here.
+
+## Conflicting dates and records
+
+- Q-Con (11 September) came before the formal NI report launch (23 September): the findings were presented first, the report published later.
+- The Q-Con programme spells the firm 'Quantum Forsight'; the correct spelling is Quantum Foresight.
+- Undated entries (Futures Toolkit, SAFIRE, Securing Tomorrow, the misuse assessment) have no date in the public record.

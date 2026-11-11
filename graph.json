@@ -1,0 +1,152 @@
+{
+ "about": "Works and sources of Quantum Foresight; links are implied by each work's threads and ledTo.",
+ "works": [
+  {
+   "id": "futures-toolkit",
+   "title": "UK Government Futures Toolkit",
+   "year": null,
+   "area": "Foresight method",
+   "nature": "built",
+   "status": "published",
+   "threads": [
+    "foresight method"
+   ],
+   "ledTo": []
+  },
+  {
+   "id": "safire",
+   "title": "SAFIRE scenarios",
+   "year": null,
+   "area": "Foresight method",
+   "nature": "built",
+   "status": "published",
+   "threads": [
+    "foresight method"
+   ],
+   "ledTo": []
+  },
+  {
+   "id": "securing-tomorrow",
+   "title": "KuppingerCole: Securing Tomorrow",
+   "year": null,
+   "area": "Foresight method",
+   "nature": "built",
+   "status": "published",
+   "threads": [
+    "foresight method",
+    "cybersecurity"
+   ],
+   "ledTo": []
+  },
+  {
+   "id": "misuse-assessment",
+   "title": "Assessment of criminal misuse of quantum technologies",
+   "year": null,
+   "area": "Government advisory",
+   "nature": "built",
+   "status": "completed",
+   "threads": [
+    "translation gap",
+    "government quantum advisory"
+   ],
+   "ledTo": []
+  },
+  {
+   "id": "ni-project",
+   "title": "NI Quantum Foresight project",
+   "year": 2026,
+   "area": "Government advisory",
+   "nature": "built",
+   "status": "completed",
+   "threads": [
+    "translation gap",
+    "government quantum advisory",
+    "scenario reports"
+   ],
+   "ledTo": [
+    "qcon"
+   ]
+  },
+  {
+   "id": "qcon",
+   "title": "Q-Con Gdansk sessions",
+   "year": 2026,
+   "area": "Speaking",
+   "nature": "built",
+   "status": "delivered",
+   "threads": [
+    "translation gap",
+    "scenario reports"
+   ],
+   "ledTo": []
+  },
+  {
+   "id": "site",
+   "title": "quantum-foresight.com site and brand",
+   "year": 2026,
+   "area": "Brand",
+   "nature": "built",
+   "status": "live",
+   "threads": [
+    "translation gap"
+   ],
+   "ledTo": []
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Quantum Foresight website",
+   "date": "2026",
+   "date_basis": "year of the work, not of publication",
+   "kind": "document",
+   "url": "https://quantum-foresight.com",
+   "text": "texts/1.md"
+  },
+  {
+   "id": 2,
+   "title": "Quantum Technologies in Northern Ireland (full report, Matrix NI)",
+   "date": "2026-09-23",
+   "date_basis": "Department for the Economy press release date",
+   "kind": "document",
+   "url": "https://matrixni.org/documents/quantum-technologies-in-northern-ireland/",
+   "text": "texts/2.md"
+  },
+  {
+   "id": 3,
+   "title": "Q-Con 2026 programme (Gdansk)",
+   "date": "2026-09-11",
+   "date_basis": "conference date; programme page says it is subject to change",
+   "kind": "document",
+   "url": "https://qcon.tech/schedule/",
+   "text": "texts/3.md"
+  },
+  {
+   "id": 7,
+   "title": "New report identifies quantum opportunities for Northern Ireland (Department for the Economy news)",
+   "date": "2026-09-23",
+   "date_basis": "publication date on the page",
+   "kind": "document",
+   "url": "https://www.economy-ni.gov.uk/news/new-report-identifies-quantum-opportunities-northern-ireland",
+   "text": "texts/7.md"
+  },
+  {
+   "id": 8,
+   "title": "LinkedIn: NI quantum report launches at AICON Belfast",
+   "date": "2026-09-24",
+   "date_basis": "date shown on the Quantum Foresight site",
+   "kind": "post",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7508839880198758400",
+   "text": "texts/8.md"
+  },
+  {
+   "id": 9,
+   "title": "LinkedIn: Q-Con Gdansk, national quantum strategy on stage",
+   "date": "2026-09-19",
+   "date_basis": "date shown on the Quantum Foresight site",
+   "kind": "post",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506700581160505344",
+   "text": "texts/9.md"
+  }
+ ]
+}
