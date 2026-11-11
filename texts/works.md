@@ -2,6 +2,16 @@
 
 > Threads, areas and links between works are the archive builder's interpretation, not the authors' words.
 
+## SAFIRE scenarios (2021) (SAMI prior work)
+
+Foresight method; built; published; work id safire
+
+**What:** SAMI's contribution to SAFIRE, the European Commission's Strategic Foresight Intelligence System for EU research and innovation, published by DG Research and Innovation on 9 August 2021: 44 scenarios, four global plus four for each of ten global regions. Jonathan Blanchard Smith and Huw Williams are among the named authors.
+
+**Threads:** foresight method
+
+**Sources (3):** [13](https://quantum-foresight.com/texts/13.md), [11](https://quantum-foresight.com/texts/11.md), [1](https://quantum-foresight.com/texts/1.md)
+
 ## UK Government Futures Toolkit (2023 refresh) (2023) (SAMI prior work)
 
 Foresight method; built; published; work id futures-toolkit
@@ -56,16 +66,6 @@ Brand; built; live; work id site
 
 **Sources (1):** [1](https://quantum-foresight.com/texts/1.md)
 
-## SAFIRE scenarios (undated) (SAMI prior work)
-
-Foresight method; built; published; work id safire
-
-**What:** SAMI's contribution to the European Commission's SAFIRE foresight system for DG Research and Innovation: 44 scenarios, four global plus four for each of ten global regions. SAMI says it was written during the pandemic.
-
-**Threads:** foresight method
-
-**Sources (2):** [11](https://quantum-foresight.com/texts/11.md), [1](https://quantum-foresight.com/texts/1.md)
-
 ## Assessment of criminal misuse of quantum technologies (undated)
 
 Government advisory; built; completed; work id misuse-assessment
@@ -74,4 +74,20 @@ Government advisory; built; completed; work id misuse-assessment
 
 **Threads:** translation gap; government quantum advisory; public-sector clients
 
+**Led to** Agent-assisted analysis and delivery backend (undated): the backend was first built out on this engagement. Evidence (they say so): statement by the firm (source 14); no external source
+
 **Sources (1):** [1](https://quantum-foresight.com/texts/1.md)
+
+## Agent-assisted analysis and delivery backend (undated)
+
+Delivery infrastructure; built; in use; work id qf-backend
+
+**What:** A reusable, agent-assisted backend that supports Quantum Foresight engagements. Details are not published.
+
+**Summary:** First built out on the government misuse assessment, then reused for the NI Quantum Foresight project, and it continues to support current engagements.
+
+**Threads:** systems that compound
+
+**Led to** NI Quantum Foresight project (2026): the backend built out on the first engagement was reused for the NI project. Evidence (they say so): statement by the firm (source 14); no external source
+
+**Sources (1):** [14](https://quantum-foresight.com/texts/14.md)

@@ -27,7 +27,7 @@ Internal method detail and commercial terms are omitted. Client contract values 
 
 - Q-Con (11 September) came before the formal NI report launch (23 September): the findings were presented first, the report published later.
 - The Q-Con programme spells the firm 'Quantum Forsight'; the correct spelling is Quantum Foresight.
-- SAFIRE has no publication date in SAMI's own post. Search snippets suggest 2019 for the project and autumn 2021 for the report; neither is confirmed on a page, so the work is left undated.
-- SAMI's SAFIRE post says the scenarios were reviewed within the Directorate-General and third party endorsed; it does not say 'peer-reviewed'.
+- Neither the EU record for SAFIRE nor SAMI's own post uses the words 'peer-reviewed'. SAMI says the scenarios were reviewed within the Directorate-General and are third party endorsed; this archive uses that wording.
+- The EU record names individuals, not firms. The SAMI affiliation of the named authors comes from SAMI's own materials.
 - The Futures Toolkit has a 2017 edition and a 2023 refresh; SAMI's role is documented for the 2023 refresh.
-- The misuse assessment has no date in the public record.
+- The misuse assessment and the delivery backend have no date in the public record.
